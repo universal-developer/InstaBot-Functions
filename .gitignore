@@ -1,0 +1,8 @@
+.idea/
+venvInstagam_bot/
+venvInstBot/
+*.pyc
+dataaaa.py
+
+# Project exclude paths
+/venvInstagram_bot/
